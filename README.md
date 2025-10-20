@@ -1,0 +1,1 @@
+# Akbank_generative_ai_bootcamp
