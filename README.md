@@ -23,8 +23,6 @@ Projede kullanılan veri setleri hazır veri setleridir:
 | career_path_in_all_field.csv | Yazılım alanındaki kariyer yollarını gösterir |
 | computer_science_student_career_datasetMar62024.csv | Bilgisayar bilimi öğrencilerinin kariyer tercihleri |
 
-> Not: Veri setleri repo içine eklenmemiştir; lokal veya bulut üzerinden erişim sağlanabilir.
-
 ---
 
 ## Kullanılan Yöntemler
@@ -42,5 +40,7 @@ Projede kullanılan veri setleri hazır veri setleridir:
 2. **LLM (Cevap Üretici):** GPT-4 modeli, kullanıcı sorusunu ve retriever’dan gelen verileri kullanarak cevap üretir.
 3. **Frontend (Sunum Katmanı):** Streamlit arayüzü, kullanıcı ile etkileşimi sağlar.
 
-**Mimari Akışı:**
 
+## Canlı Uygulama
+
+Akbank Generative AI Bootcamp kapsamında hazırlanan uygulamaya [buradan ulaşabilirsiniz](https://akbankgenerativeaibootcamp-lc2hnscvjeidlpmofpabtv.streamlit.app/).
