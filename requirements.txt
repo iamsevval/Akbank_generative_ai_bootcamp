@@ -1,9 +1,7 @@
 streamlit
 pandas
-openai   # OpenAI API 
-faiss-cpu  # Vektör DB 
-langchain # RAG pipeline için
+matplotlib
+openai
+faiss-cpu
+langchain
 python-dotenv
-
-
-
