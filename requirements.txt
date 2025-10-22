@@ -1,0 +1,9 @@
+streamlit
+pandas
+openai   # OpenAI API 
+faiss-cpu  # Vektör DB 
+langchain # RAG pipeline için
+python-dotenv
+
+
+
